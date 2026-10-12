@@ -1,5 +1,16 @@
 # 💫 About Me:
-I’m currently working on<br><br>Proyek website pribadi untuk portofolio<br><br>I’m looking to collaborate on<br><br>Proyek open source dan web app yang seru<br><br>I’m looking for help with<br><br>Belajar best practice coding dan Git<br><br>I’m currently learning<br><br>JavaScript, React, dan cara bikin website yang keren<br><br>Ask me about<br><br>HTML, CSS, dan dasar-dasar web development<br><br>Fun fact<br><br>Ngoding paling lancar kalau sudah lewat tengah malam<br><br>
+### Tentang Saya
+
+Zedy, dari Pekanbaru. Saya bikin web pakai Laravel, dan sekarang lagi sibuk ngerjain **SIP (Sistem Informasi)**, proyek yang bikin saya tidur lebih malam dari seharusnya.
+
+Bukan yang paling jago, tapi saya suka momen waktu error merah berubah jadi halaman yang jalan.
+
+- 🔭 Lagi dikerjakan: sistem informasi berbasis Laravel (`sip-sistem-informasi`)
+- 🌱 Lagi dipelajari: Laravel lebih dalam, Blade, dan database
+- 🤝 Terbuka kolaborasi: proyek web, apalagi yang pakai Laravel
+- 🧠 Butuh bantuan: struktur kode yang rapi dan Git
+- 💬 Tanya saya soal: Laravel, PHP, dan bikin sistem informasi dari nol
+- ⚡ Fun fact: kode paling lancar justru jam 11 malam ke atas
 
 
 ## 🌐 Socials:
