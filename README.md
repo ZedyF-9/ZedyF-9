@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Tentang Saya
 
-Zedy, dari Pekanbaru. Saya bikin web pakai Laravel, dan sekarang lagi sibuk ngerjain **SIP (Sistem Informasi)**, proyek yang bikin saya tidur lebih malam dari seharusnya.
+Zedy, dari Kepulauan Riau,Tanjungpinang Timur. Saya bikin web pakai Laravel, dan sekarang lagi sibuk ngerjain **SIP (Sistem Informasi)**, proyek yang bikin saya tidur lebih malam dari seharusnya.
 
 Bukan yang paling jago, tapi saya suka momen waktu error merah berubah jadi halaman yang jalan.
 
